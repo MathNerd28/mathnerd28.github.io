@@ -1,0 +1,11 @@
+body.main_background {
+    background-size: cover;
+    background-image: url("images/AppIcons1.jpg");
+    background-repeat: no-repeat;
+}
+
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
